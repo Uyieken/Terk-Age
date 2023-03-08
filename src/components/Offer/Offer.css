@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  margin-top: 6rem;
+}
+
+.offer_div {
+  width: 100%;
+  height: 700px;
+}
+
+.offer_text {
+  padding-top: 4rem;
+}
+
+.oh1 {
+  text-align: center;
+  color: white;
+}
+.op {
+  text-align: center;
+}
